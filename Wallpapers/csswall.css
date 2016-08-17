@@ -1,0 +1,30 @@
+body{
+	background-color: #FFFACD;
+	font-family: Impact, Charcoal, sans-serif;
+}
+h1{
+	background-color:#FFD700;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+image{
+	margin: 5px;
+	border: 1px solid #ccc;
+	width: 180px;
+	}
+	
+image{
+	opacity:0.5;
+	filter: alpha(opacity=50);
+}	
+image:hover {
+    opacity:1;
+    filter: alpha(opacity=100);
+}
+
+
